@@ -1,4 +1,5 @@
 # Q1 Answer template
+# https://programmers.co.kr/learn/courses/30/lessons/77484
 
 ## 망가진 로또lottos, 당첨번호 win_nums를 받아서
 # 최저~ 최대 몇등인지 구하기.
